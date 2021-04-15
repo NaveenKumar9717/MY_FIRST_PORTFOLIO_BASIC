@@ -3,7 +3,7 @@
 
 <head>
   <meta charset="utf-8">
-  <title>Home-NAVEEN</title>
+  **Home-NAVEEN KUMAR**
 </head>
 
 <body>
